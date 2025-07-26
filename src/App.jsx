@@ -7,14 +7,14 @@ Chart.register(...registerables);
 // --- Define new color palette based on Vercel App ---
 const Colors = {
     // Primary palette
-    primaryDarkPurple: '#2C005F', // Very dark purple/indigo for main headings, footers
+    primaryDarkPurple: '#430747', // Very dark purple/indigo for main headings, footers
     secondaryPurple: '#3F007D',  // Slightly less dark, for sub-headings, key text
     lightPurple: '#FAF8FF',      // Very light purple for main backgrounds/hero
     palePurple: '#F3EDF9',       // Even paler for some card backgrounds/gradients
 
     // Accent colors
     accentPink: '#FF4081',       // Bright pink for highlights, active states
-    accentBlue: '#4FC3F7',       // Blue accent (e.g., for some chart bars)
+    accentBlue: '#430747',       // Blue accent (e.g., for some chart bars)
     accentGreen: '#8BC34A',      // Green accent (e.g., for some chart bars)
 
     // Text & UI colors
